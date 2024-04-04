@@ -2,7 +2,7 @@
 
 This dashboard provides a visual representation of the production status of different machines over time. It allows users to analyze machine activity, including start and end times, and current state.
 
-#### Features:
+####Features:
 
 1. **Machine Selection:**
    - Users can select a specific machine from the dropdown menu to focus on its production status.
